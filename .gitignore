@@ -10,6 +10,9 @@
 
 # production
 /build
+package-lock.json
+.env
+.eslintrc.json
 
 # misc
 .DS_Store
